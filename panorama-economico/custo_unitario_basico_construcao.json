@@ -7,7 +7,7 @@
             "cor_valor": "green",
             "desc_serie": "Custo M\u00e9dio por m\u00b2 (R$)",
             "direcao": "up",
-            "referencia": "Mai/2022",
+            "referencia": "Jun/2022",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -120,6 +120,10 @@
                 {
                     "x": "2022-04-01T00:00:00Z",
                     "y": 2185.91
+                },
+                {
+                    "x": "2022-05-01T00:00:00Z",
+                    "y": 2255.59
                 }
             ],
             "serie_labels": {
@@ -128,7 +132,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": "2.255,59",
+            "valor": "2277.8",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
