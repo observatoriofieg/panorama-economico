@@ -6,8 +6,8 @@
         {
             "titulo": "Brasil",
             "valor": "-0.95%",
-            "direcao": "up",
-            "cor_valor": "green",
+            "direcao": "down",
+            "cor_valor": "red",
             "desc_serie": "Variação percentual mensal(Em atualização)",
             "serie_tipo": "data",
             "referencia": "Abr/2023",
