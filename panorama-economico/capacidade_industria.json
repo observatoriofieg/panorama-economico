@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 41.7,
+            "valor": 44.8,
             "cor_seta": "orange",
             "direcao": "up",
             "cor_valor": "red",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Fev/2023",
+            "referencia": "Mar/2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
