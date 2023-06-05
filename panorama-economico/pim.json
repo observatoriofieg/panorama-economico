@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "1.1%",
+            "valor": "-0.6%%",
             "direcao": "down",
             "cor_seta": "orange",
             "cor_valor": "red",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Mar/2023",
+            "referencia": "Abr/2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
