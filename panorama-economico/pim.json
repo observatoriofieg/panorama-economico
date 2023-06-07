@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "-0.6%%",
+            "valor": "-0.6%",
             "direcao": "down",
             "cor_seta": "orange",
             "cor_valor": "red",
