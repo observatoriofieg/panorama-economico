@@ -6,9 +6,9 @@
         {
             "titulo": "Brasil",
             "valor": 69.0,
-            "cor_seta": "orange",
+            "cor_seta": "green",
             "direcao": "up",
-            "cor_valor": "red",
+            "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
             "referencia": "Mai/2023",
