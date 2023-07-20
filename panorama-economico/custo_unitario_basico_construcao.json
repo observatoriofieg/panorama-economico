@@ -180,7 +180,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": 2349.35,
+            "valor": "2.349,35",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
