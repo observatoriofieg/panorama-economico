@@ -11,7 +11,7 @@
             "cor_seta": "red",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Maio/2023",
+            "referencia": "Mai/23 em relação com Abr/23",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
