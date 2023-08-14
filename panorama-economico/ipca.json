@@ -5,12 +5,12 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "-0,08%",
-            "direcao": "down",
-            "cor_valor": "red",
+            "valor": "0,12%",
+            "direcao": "up",
+            "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jun/2023",
+            "referencia": "Jul/2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -183,17 +183,25 @@
                 {
                     "x": "2023-05-01T00:00:00Z",
                     "y": 0.23
+                },
+                {
+                    "x": "2023-06-01T00:00:00Z",
+                    "y": -0.08
+                },
+                {
+                    "x": "2023-07-01T00:00:00Z",
+                    "y": 0.12
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "-0,97%",
-            "direcao": "down",
-            "cor_valor": "red",
+            "valor": "0,16%",
+            "direcao": "up",
+            "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jun/2023",
+            "referencia": "Jul/2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -366,6 +374,14 @@
                 {
                     "x": "2023-05-01T00:00:00Z",
                     "y": 0.15
+                },
+                {
+                    "x": "2023-06-01T00:00:00Z",
+                    "y": -0.97
+                },
+                {
+                    "x": "2023-07-01T00:00:00Z",
+                    "y": 0.16
                 }
             ]
         }
