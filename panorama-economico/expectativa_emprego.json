@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 50.5,
-            "direcao": "down",
+            "valor": 51.1,
+            "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Abr/2023",
+            "referencia": "Jul/2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -84,6 +84,18 @@
                 {
                     "x": "2023-04-01T00:00:00Z",
                     "y": 50.5
+                },
+                {
+                    "x": "2023-05-01T00:00:00Z",
+                    "y": 49.9
+                },
+                {
+                    "x": "2023-06-01T00:00:00Z",
+                    "y": 50.7
+                },
+                {
+                    "x": "2023-07-01T00:00:00Z",
+                    "y": 51.1
                 }
             ]
         }
