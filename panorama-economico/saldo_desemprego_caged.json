@@ -6,8 +6,8 @@
         {
             "cor_valor": "green",
             "desc_serie": "Saldo de empregados por m\u00eas",
-            "direcao": "down",
-            "referencia": "Mai/2023",
+            "direcao": "up",
+            "referencia": "Jun/2023",
             "serie": [
                 {
                     "x": "2022-01-01T00:00:00Z",
@@ -59,19 +59,27 @@
                 },
                 {
                     "x": "2023-01-01T00:00:00Z",
-                    "y": 33817
+                    "y": 33874
                 },
                 {
                     "x": "2023-02-01T00:00:00Z",
-                    "y": 37194
+                    "y": 37110
                 },
                 {
                     "x": "2023-03-01T00:00:00Z",
-                    "y": 18169
+                    "y": 18145
                 },
                 {
                     "x": "2023-04-01T00:00:00Z",
-                    "y": 14720
+                    "y": 14590
+                },
+                {
+                    "x": "2023-05-01T00:00:00Z",
+                    "y": 5748
+                },
+                {
+                    "x": "2023-06-01T00:00:00Z",
+                    "y": 9707
                 }
 
             ],
@@ -81,7 +89,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Brasil",
-            "valor": "5.757",
+            "valor": "9.707",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
@@ -90,8 +98,8 @@
         {
             "cor_valor": "green",
             "desc_serie": "Saldo de empregados por m\u00eas",
-            "direcao": "down",
-            "referencia": "Mai/2023",
+            "direcao": "up",
+            "referencia": "Jun/2023",
             "serie": [
                 {
                     "x": "2022-01-01T00:00:00Z",
@@ -143,19 +151,27 @@
                 },
                 {
                     "x": "2023-01-01T00:00:00Z",
-                    "y": 799
+                    "y": 792
                 },
                 {
                     "x": "2023-02-01T00:00:00Z",
-                    "y": 1311
+                    "y": 1284
                 },
                 {
                     "x": "2023-03-01T00:00:00Z",
-                    "y": 1577
+                    "y": 1560
                 },
                 {
                     "x": "2023-04-01T00:00:00Z",
-                    "y": 2359
+                    "y": 2373
+                },
+                {
+                    "x": "2023-05-01T00:00:00Z",
+                    "y": 1045
+                },
+                {
+                    "x": "2023-06-01T00:00:00Z",
+                    "y": 1239
                 }
             ],
             "serie_labels": {
@@ -164,7 +180,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": "1.068",
+            "valor": "1.239",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
