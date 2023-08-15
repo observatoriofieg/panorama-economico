@@ -4,10 +4,10 @@
     "nome": "Custo Unit\u00e1rio B\u00e1sico de Constru\u00e7\u00e3o - Varia\u00e7\u00e3o Mensal ",
     "stats": [
         {
-            "cor_valor": "green",
+            "cor_valor": "red",
             "desc_serie": "Custo B\u00e1sico de constru\u00e7\u00e3o - Varia\u00e7\u00e3o Anual",
-            "direcao": "up",
-            "referencia": "Jun/2023",
+            "direcao": "down",
+            "referencia": "Jul/2023",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -172,6 +172,14 @@
                 {
                     "x": "2023-05-01T00:00:00Z",
                     "y": 0.96
+                },
+                {
+                    "x": "2023-06-01T00:00:00Z",
+                    "y": 1.056
+                },
+                {
+                    "x": "2023-07-01T00:00:00Z",
+                    "y": -0.037
                 }
             ],
             "serie_labels": {
@@ -180,7 +188,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": "1,056%",
+            "valor": "-0.037%",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
