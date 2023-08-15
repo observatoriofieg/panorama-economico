@@ -5,8 +5,8 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "-1,92%",
-            "direcao": "down",
+            "valor": "-0,72%",
+            "direcao": "up",
             "cor_valor": "red",
             "desc_serie": "Variação percentual mensal(Em atualização)",
             "serie_tipo": "data",
@@ -87,9 +87,15 @@
                 {
                     "x": "2023-05-01T00:00:00Z",
                     "y": -1.84
-                }
-
-            
+                },
+                {
+                    "x": "2023-06-01T00:00:00Z",
+                    "y": -1.93
+                },
+                {
+                    "x": "2023-07-01T00:00:00Z",
+                    "y": -0.72
+                } 
                 
             ]
         }
