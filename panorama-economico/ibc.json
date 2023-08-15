@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "-2%",
-            "direcao": "down",
-            "cor_valor": "red",
-            "cor_seta": "red",
+            "valor": "0,69%",
+            "direcao": "up",
+            "cor_valor": "green",
+            "cor_seta": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Mai/23 em relação com Abr/23",
+            "referencia": "Jun/23 em relação com Mai/23",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -120,6 +120,10 @@
                 {
                     "x": "2023-05-01T00:00:00Z",
                     "y" :-2.00
+                },
+                {
+                    "x": "2023-06-01T00:00:00Z",
+                    "y" :0.63
                 }
             ]
         }
