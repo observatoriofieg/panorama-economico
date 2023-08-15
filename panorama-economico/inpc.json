@@ -201,11 +201,11 @@
         {
             "titulo": "Goiás",
             "valor": "-0,06%",
-            "direcao": "up",
-            "cor_valor": "green",
+            "direcao": "down",
+            "cor_valor": "red",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Mai/2023",
+            "referencia": "Jul/2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
